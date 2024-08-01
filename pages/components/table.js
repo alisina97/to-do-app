@@ -5,7 +5,7 @@ const Table = () => {
             Deadline: "29 June",
             Actions: "Delete"
         }, {
-            Tasks: "Test2",
+            Tasks: "Test4",
             Category: "Test",
             Deadline: "29 June",
             Actions: "Delete"
